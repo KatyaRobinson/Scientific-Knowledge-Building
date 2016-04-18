@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0  1208 658" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <path id="svgEditorClosePathDefs" stroke="black" fill="khaki" style="vector-effect: non-scaling-stroke; stroke-width: 1px;"/>
+    <text id="svgEditorTextDefs" fill="black" style="font-family: Arial; font-size: 20px;"/>
+  </defs>
+  <rect id="svgEditorBackground" x="0" y="0" width="1208" height="658" style="fill: none; stroke: none;"/>
+  <path d="M-0.05333436280488968,-3.4640002250671387l-3.999999761581421,6.927999973297119h8Z" stroke="black" id="e1_shape" fill="#1B8D93" style="vector-effect: non-scaling-stroke; stroke-width: 1px;" transform="matrix(18.75 0 0 17.0323 474 129)"/>
+  <path d="M -4.05366 3.52284 l -4 6.928 h 8 Z" stroke="black" fill="#73AC78" style="vector-effect: non-scaling-stroke; stroke-width: 1px;" transform="matrix(18.7119 0 0 16.9977 473.991 128.729)" id="e2_shape"/>
+  <path d="M 3.96263 3.52284 l -4 6.928 h 8 Z" stroke="black" fill="#73AC78" style="vector-effect: non-scaling-stroke; stroke-width: 1px;" transform="matrix(18.7119 0 0 16.9977 473.991 128.729)" id="e4_shape"/>
+  <path d="M-6.1760945320129395,5.30293607711792l-3.999999523162842,6.927999973297119h8Z" stroke="black" fill="#E9D365" style="vector-effect: non-scaling-stroke; stroke-width: 1px;" transform="matrix(9.23881 0 0 8.39246 379.447 267.686)" id="e14_shape"/>
+  <path d="M26.512109756469727,5.1837849617004395l-4,6.927999973297119h8Z" stroke="black" fill="#E9D365" style="vector-effect: non-scaling-stroke; stroke-width: 1px;" transform="matrix(9.23881 0 0 8.39246 379.447 267.686)" id="e22_shape"/>
+  <path d="M1.8336005210876465,5.3029398918151855l-4,6.927999973297119h8Z" stroke="black" fill="#E9D365" style="vector-effect: non-scaling-stroke; stroke-width: 1px;" transform="matrix(9.23881 0 0 8.39246 379.447 267.686)" id="e23_shape"/>
+  <path d="M9.951530456542969,5.302939414978027l-4,6.928000450134277h8Z" stroke="black" fill="#E9D365" style="vector-effect: non-scaling-stroke; stroke-width: 1px;" transform="matrix(9.23881 0 0 8.39246 379.447 267.686)" id="e24_shape"/>
+  <path d="M18.28594970703125,5.183784484863281l-4,6.927999496459961h8Z" stroke="black" fill="#E9D365" style="vector-effect: non-scaling-stroke; stroke-width: 1px;" transform="matrix(9.23881 0 0 8.39246 379.447 267.686)" id="e25_shape"/>
+  <path d="M-1.1466975212097168,31.08822250366211l-4,6.928001403808594h8Z" stroke="black" fill="#FCAA2B" style="vector-effect: non-scaling-stroke; stroke-width: 1px;" transform="matrix(-9.05754 0.0116458 -0.010579 -8.2278 349.543 622.233)" id="e26_shape"/>
+  <path d="M-9.316671371459961,31.076698303222656l-4,6.928001403808594h8Z" stroke="black" fill="#FCAA2B" style="vector-effect: non-scaling-stroke; stroke-width: 1px;" transform="matrix(-9.05754 0.0116458 -0.010579 -8.2278 349.543 622.233)" id="e27_shape"/>
+  <path d="M-17.707324981689453,30.943283081054688l-4,6.928001403808594h8Z" stroke="black" fill="#FCAA2B" style="vector-effect: non-scaling-stroke; stroke-width: 1px;" transform="matrix(-9.05754 0.0116458 -0.010579 -8.2278 349.543 622.233)" id="e28_shape"/>
+  <path d="M-26.208629608154297,31.052804946899414l-4,6.927999496459961h8Z" stroke="black" fill="#FCAA2B" style="vector-effect: non-scaling-stroke; stroke-width: 1px;" transform="matrix(-9.05754 0.0116458 -0.010579 -8.2278 349.543 622.233)" id="e29_shape"/>
+  <text fill="black" id="e31_texte" style="font-family: Arial; font-size: 20px;" transform="matrix(-0.0762177 -0.703785 0.703785 -0.0762177 443.483 471.02)"/>
+</svg>

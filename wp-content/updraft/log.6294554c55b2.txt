@@ -1,0 +1,112 @@
+0000.005 () Opened log file at time: Thu, 27 Aug 2015 12:53:33 +0000 on http://scientificknowledgebuilding.com
+0000.006 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.2.4 PHP: 5.3.29 (Linux boscustweb3804.eigbox.net 3.14.27 #1 SMP Wed Dec 17 21:04:05 EST 2014 x86_64) MySQL: 5.5.43 Server: Apache/2 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 38M | 38.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.006 () Free space on disk containing Updraft's temporary directory: 11998110.5 Mb
+0000.006 () Restore job started. Entities to restore: plugins, themes, uploads, others, db
+0000.095 () Entity: db
+0000.095 () restore_backup(backup_file=backup_2015-08-26-1535_Scientific_Knowledge_Building_4dd911f04ceb-db.gz, type=db, info=a:0:{}, last_one=)
+0000.095 () Unpacking backup...
+0000.135 () Database successfully unpacked
+0000.135 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.136 () Using direct MySQL access; value of use_mysqli is: 0
+0000.138 () Max packet size: 32 Mb
+0000.138 () Entering maintenance mode
+0000.138 () Enabling Maintenance mode&#8230;
+0000.143 () Backup created by: 1.11.5
+0000.143 () <strong>Backup of:</strong> http://scientificknowledgebuilding.com
+0000.144 () Content URL: http://scientificknowledgebuilding.com/wp-content
+0000.144 () Old table prefix: wp_
+0000.145 () Site information: multisite=0
+0000.148 () New table prefix: wp_
+0000.151 () Restoring table (InnoDB): wp_options
+0000.230 () Restoring prior UD configuration (table: wp_options; keys: 2)
+0000.242 () Restoring table (InnoDB): wp_users
+0000.251 () Restoring table (InnoDB): wp_usermeta
+0000.277 () Restoring table (InnoDB): wp_commentmeta
+0000.292 () Restoring table (InnoDB): wp_comments
+0000.301 () Restoring table (InnoDB): wp_links
+0000.308 () Restoring table (InnoDB): wp_postmeta
+0000.617 () Restoring table (InnoDB): wp_posts
+0000.777 () Restoring table (InnoDB): wp_term_relationships
+0000.787 () Restoring table (InnoDB): wp_term_taxonomy
+0000.806 () Restoring table (InnoDB): wp_terms
+0000.820 () Restoring table (InnoDB): wp_ef_card_design
+0000.831 () Restoring table (InnoDB): wp_ef_cards
+0000.838 () Restoring table (InnoDB): wp_ef_index
+0000.854 () Database queries processed: 50 in 0.72 seconds
+0000.859 () Restoring table (InnoDB): wp_q2w3_inc_manager
+0000.869 () Restoring table (InnoDB): wp_wfBadLeechers
+0000.878 () Restoring table (InnoDB): wp_wfBlocks
+0000.885 () Restoring table (InnoDB): wp_wfBlocksAdv
+0000.893 () Restoring table (InnoDB): wp_wfConfig
+0000.911 () Restoring table (InnoDB): wp_wfCrawlers
+0000.921 () Restoring table (InnoDB): wp_wfFileMods
+0000.938 () Restoring table (InnoDB): wp_wfHits
+0000.964 () Restoring table (InnoDB): wp_wfHoover
+0000.977 () Restoring table (InnoDB): wp_wfIssues
+0001.009 () Restoring table (InnoDB): wp_wfLeechers
+0001.035 () Restoring table (InnoDB): wp_wfLockedOut
+0001.041 () Restoring table (InnoDB): wp_wfLocs
+0001.048 () Restoring table (InnoDB): wp_wfLogins
+0001.063 () Restoring table (InnoDB): wp_wfNet404s
+0001.068 () Restoring table (InnoDB): wp_wfReverseCache
+0001.076 () Restoring table (InnoDB): wp_wfScanners
+0001.081 () Restoring table (InnoDB): wp_wfStatus
+0001.087 () Restoring table (InnoDB): wp_wfThrottleLog
+0001.092 () Restoring table (InnoDB): wp_wfVulnScanners
+0001.098 () Restoring table (InnoDB): wp_woocommerce_attribute_taxonomies
+0001.108 () Database queries processed: 100 in 0.97 seconds
+0001.111 () Restoring table (InnoDB): wp_woocommerce_downloadable_product_permissions
+0001.135 () Restoring table (InnoDB): wp_woocommerce_order_itemmeta
+0001.144 () Restoring table (InnoDB): wp_woocommerce_order_items
+0001.151 () Restoring table (InnoDB): wp_woocommerce_tax_rate_locations
+0001.161 () Restoring table (InnoDB): wp_woocommerce_tax_rates
+0001.167 () Restoring table (InnoDB): wp_woocommerce_termmeta
+0001.173 () Restoring table (InnoDB): wp_wp_pro_quiz_category
+0001.180 () Restoring table (InnoDB): wp_wp_pro_quiz_form
+0001.185 () Restoring table (InnoDB): wp_wp_pro_quiz_lock
+0001.195 () Restoring table (InnoDB): wp_wp_pro_quiz_master
+0001.209 () Restoring table (InnoDB): wp_wp_pro_quiz_prerequisite
+0001.218 () Restoring table (InnoDB): wp_wp_pro_quiz_question
+0001.228 () Restoring table (InnoDB): wp_wp_pro_quiz_statistic
+0001.235 () Restoring table (InnoDB): wp_wp_pro_quiz_statistic_ref
+0001.246 () Restoring table (InnoDB): wp_wp_pro_quiz_template
+0001.259 () Restoring table (InnoDB): wp_wp_pro_quiz_toplist
+0001.291 () Restoring table (InnoDB): wp_wpbackitup_job
+0001.305 () Leaving maintenance mode
+0001.305 () Disabling Maintenance mode&#8230;
+0001.306 () Finished: lines processed: 140 in 1.17 seconds
+0001.307 () Cleaning up rubbish...
+0001.318 () Entity: plugins
+0001.318 () restore_backup(backup_file=backup_2015-08-26-1535_Scientific_Knowledge_Building_4dd911f04ceb-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:69:"/hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0001.318 () Unpacking backup... (backup_2015-08-26-1535_Scientific_Knowledge_Building_4dd911f04ceb-plugins.zip, 13.6 Mb)
+0029.068 () Moving old data: filesystem method / updraft_dir is potentially possible
+0029.070 () Moving old data: can potentially use wp_filesystem method / -old
+0029.071 () Moving old data out of the way...
+0033.134 () Top-level entities being moved: updraftplus, index.php, easy-table, black-studio-tinymce-widget, category-d3-tree, siteorigin-panels, so-widgets-bundle, velvet-blues-update-urls, wp-d3, wp-pro-quiz, password-protected, embed-any-document, magic-post-listing, flashcard, easy-flashcards, tabby-responsive-tabs
+0033.182 () Moving unpacked backup into place...
+0034.854 () Top-level entities being moved: black-studio-tinymce-widget, category-d3-tree, dropbox-backup, easy-flashcards, easy-table, embed-any-document, flashcard, jquery-colorbox, magic-post-listing, password-protected, pdf-embedder, siteorigin-panels, so-widgets-bundle, svg-complete, tabby-responsive-tabs, updraftplus, velvet-blues-update-urls, wp-d3, wp-pro-quiz, index.php
+0034.928 () Cleaning up rubbish...
+0034.930 () Entity: themes
+0034.930 () restore_backup(backup_file=backup_2015-08-26-1535_Scientific_Knowledge_Building_4dd911f04ceb-themes.zip, type=themes, info=a:2:{s:4:"path";s:68:"/hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0034.931 () Unpacking backup... (backup_2015-08-26-1535_Scientific_Knowledge_Building_4dd911f04ceb-themes.zip, 15.3 Mb)
+0043.681 () Moving old data: filesystem method / updraft_dir is potentially possible
+0043.689 () Moving old data: can potentially use wp_filesystem method / -old
+0043.689 () Moving old data out of the way...
+0046.521 () Top-level entities being moved: index.php, twentyfifteen, twentyfourteen, twentythirteen, accesspress-parallax, arcade-basic, asteroid, awaken, catch-base, eddiemachado-bones-22dbfcb, evolve, klean, spacious, vision
+0046.560 () Moving unpacked backup into place...
+0047.132 () Top-level entities being moved: accesspress-parallax, arcade-basic, asteroid, awaken, catch-base, eddiemachado-bones-22dbfcb, evolve, klean, spacious, twentyfifteen, twentyfourteen, twentythirteen, vision, index.php
+0047.176 () Cleaning up rubbish...
+0047.178 () Entity: uploads
+0047.178 () restore_backup(backup_file=backup_2015-08-26-1535_Scientific_Knowledge_Building_4dd911f04ceb-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:69:"/hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0047.179 () Unpacking backup... (backup_2015-08-26-1535_Scientific_Knowledge_Building_4dd911f04ceb-uploads.zip, 42 Mb)
+0053.225 () Moving old data: filesystem method / updraft_dir is potentially possible
+0053.228 () Moving old data: can potentially use wp_filesystem method / -old
+0053.228 () Moving old data out of the way...
+0053.701 () Moving unpacked backup into place...
+0054.472 () Cleaning up rubbish...
+0054.474 () Entity: others
+0054.474 () restore_backup(backup_file=backup_2015-08-26-1535_Scientific_Knowledge_Building_4dd911f04ceb-others.zip, type=others, info=a:2:{s:4:"path";s:61:"/hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0054.475 () Unpacking backup... (backup_2015-08-26-1535_Scientific_Knowledge_Building_4dd911f04ceb-others.zip, 0 Mb)
+0054.558 () Cleaning up rubbish...
+0054.592 () Restore successful!
+0054.592 () Restore successful

@@ -1,0 +1,184 @@
+2015-08-26 14:56:19		Create Unique Id wpadm_method_backup__55ddd393ef726
+2015-08-26 14:56:20		
+2015-08-26 14:56:20		Start Backup process...
+2015-08-26 14:56:20		Creating Database Dump
+2015-08-26 14:56:20		Optimize Database Tables
+2015-08-26 14:56:21		----------------------------------------------------
+2015-08-26 14:56:21		Connecting to MySQL...
+2015-08-26 14:56:21		Optimize Database Tables was started
+2015-08-26 14:56:21		Optimize Table `Connection` was successfully
+2015-08-26 14:56:21		Optimize Table `Papers` was successfully
+2015-08-26 14:56:21		Optimize Table `Reference` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_commentmeta` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_comments` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_ef_card_design` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_ef_cards` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_ef_index` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_links` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_options` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_postmeta` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_posts` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_q2w3_inc_manager` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_term_relationships` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_term_taxonomy` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_terms` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_usermeta` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_users` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfBadLeechers` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfBlocks` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfBlocksAdv` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfConfig` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfCrawlers` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfFileMods` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfHits` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfHoover` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfIssues` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfLeechers` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfLockedOut` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfLocs` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfLogins` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfNet404s` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfReverseCache` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfScanners` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfStatus` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfThrottleLog` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wfVulnScanners` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_woocommerce_attribute_taxonomies` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_woocommerce_downloadable_product_permissions` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_woocommerce_order_itemmeta` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_woocommerce_order_items` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_woocommerce_tax_rate_locations` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_woocommerce_tax_rates` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_woocommerce_termmeta` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wp_pro_quiz_category` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wp_pro_quiz_form` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wp_pro_quiz_lock` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wp_pro_quiz_master` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wp_pro_quiz_prerequisite` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wp_pro_quiz_question` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wp_pro_quiz_statistic` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wp_pro_quiz_statistic_ref` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wp_pro_quiz_template` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wp_pro_quiz_toplist` was successfully
+2015-08-26 14:56:21		Optimize Table `wp_wpbackitup_job` was successfully
+2015-08-26 14:56:21		Optimize Database Tables was Finished
+2015-08-26 14:56:21		----------------------------------------------------
+2015-08-26 14:56:21		Connecting to MySQL...
+2015-08-26 14:56:21		MySQL of Dump was started
+2015-08-26 14:56:21		Add a table "Connection" in the database dump
+2015-08-26 14:56:21		Add a table "Papers" in the database dump
+2015-08-26 14:56:21		Add a table "Reference" in the database dump
+2015-08-26 14:56:21		Add a table "wp_commentmeta" in the database dump
+2015-08-26 14:56:21		Add a table "wp_comments" in the database dump
+2015-08-26 14:56:21		Add a table "wp_ef_card_design" in the database dump
+2015-08-26 14:56:21		Add a table "wp_ef_cards" in the database dump
+2015-08-26 14:56:21		Add a table "wp_ef_index" in the database dump
+2015-08-26 14:56:21		Add a table "wp_links" in the database dump
+2015-08-26 14:56:21		Add a table "wp_options" in the database dump
+2015-08-26 14:56:21		Add a table "wp_postmeta" in the database dump
+2015-08-26 14:56:22		Add a table "wp_posts" in the database dump
+2015-08-26 14:56:22		Add a table "wp_q2w3_inc_manager" in the database dump
+2015-08-26 14:56:22		Add a table "wp_term_relationships" in the database dump
+2015-08-26 14:56:22		Add a table "wp_term_taxonomy" in the database dump
+2015-08-26 14:56:22		Add a table "wp_terms" in the database dump
+2015-08-26 14:56:22		Add a table "wp_usermeta" in the database dump
+2015-08-26 14:56:22		Add a table "wp_users" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfBadLeechers" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfBlocks" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfBlocksAdv" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfConfig" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfCrawlers" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfFileMods" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfHits" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfHoover" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfIssues" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfLeechers" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfLockedOut" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfLocs" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfLogins" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfNet404s" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfReverseCache" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfScanners" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfStatus" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfThrottleLog" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wfVulnScanners" in the database dump
+2015-08-26 14:56:22		Add a table "wp_woocommerce_attribute_taxonomies" in the database dump
+2015-08-26 14:56:22		Add a table "wp_woocommerce_downloadable_product_permissions" in the database dump
+2015-08-26 14:56:22		Add a table "wp_woocommerce_order_itemmeta" in the database dump
+2015-08-26 14:56:22		Add a table "wp_woocommerce_order_items" in the database dump
+2015-08-26 14:56:22		Add a table "wp_woocommerce_tax_rate_locations" in the database dump
+2015-08-26 14:56:22		Add a table "wp_woocommerce_tax_rates" in the database dump
+2015-08-26 14:56:22		Add a table "wp_woocommerce_termmeta" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wp_pro_quiz_category" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wp_pro_quiz_form" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wp_pro_quiz_lock" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wp_pro_quiz_master" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wp_pro_quiz_prerequisite" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wp_pro_quiz_question" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wp_pro_quiz_statistic" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wp_pro_quiz_statistic_ref" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wp_pro_quiz_template" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wp_pro_quiz_toplist" in the database dump
+2015-08-26 14:56:22		Add a table "wp_wpbackitup_job" in the database dump
+2015-08-26 14:56:22		MySQL of Dump was finished
+2015-08-26 14:56:51		Database Dump was successfully created ( 4.17 Mb) : /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wpadm_backup/mysqldump.sql
+2015-08-26 14:56:51		Create a list of files for Backup
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/easy-table/css/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/easy-table/images/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/easy-table/inc/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/easy-table/js/ttooltip/script/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/easy-table/js/ttooltip/style/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/easy-table/js/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/easy-table/languages/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/easy-table/themes/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/easy-table/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/so-widgets-bundle/base/css/mixins.css Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/so-widgets-bundle/widgets/so-features-widget/styles/base.php Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/wp-d3/js/src-min/worker-xquery.js Size 4944936
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/dropbox-backup/tmp/index.php Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/app/libraries/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/app/widgets/MPL/assets/default/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/app/widgets/MPL/assets/light-slider/css/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/app/widgets/MPL/assets/light-slider/img/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/app/widgets/MPL/assets/light-slider/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/app/widgets/MPL/assets/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/app/widgets/MPL/forms/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/app/widgets/MPL/tmpl/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/app/widgets/MPL/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/app/widgets/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/app/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/assets/css/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/assets/fonts/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/assets/img/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/assets/js/frontend.js Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/assets/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/languages/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/magic-post-listing/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/plugins/pdf-embedder/js/pdfjs/pdf.worker.js Size 1258997
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/backupwordpress-8fd8cdc452-backups/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/uploads/wc-logs/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/uploads/woocommerce_uploads/index.html Size 0
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/uploads/2015/07/stockvault-hands-typing-on-laptop-keyboard173734.jpg Size 1562112
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/uploads/2015/07/stockvault-education141635.jpg Size 1607456
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/uploads/2015/07/stockvault-school-test147826.jpg Size 1220776
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/uploads/2015/07/stockvault-open-book144296.jpg Size 1817694
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/uploads/2015/07/stockvault-aged-text125962.jpg Size 1688824
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/uploads/2015/04/pretty11.png Size 1167835
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wp-content/uploads/2015/04/pretty21.png Size 1658962
+2015-08-26 14:56:53		File /hermes/bosnaweb08a/b1202/ipg.scientificknowledgeb/wpadm_backup/mysqldump.sql Size 4370189
+2015-08-26 14:56:53		List of Backup-Files was successfully created
+2015-08-26 14:56:53		Backup of Files was started
+2015-08-26 15:16:51		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-57.zip
+2015-08-26 15:17:21		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-10.zip
+2015-08-26 15:17:22		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-58.zip
+2015-08-26 15:17:52		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-11.zip
+2015-08-26 15:17:53		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-59.zip
+2015-08-26 15:17:55		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-12.zip
+2015-08-26 15:17:56		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-60.zip
+2015-08-26 15:17:58		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-13.zip
+2015-08-26 15:17:59		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-61.zip
+2015-08-26 15:18:01		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-14.zip
+2015-08-26 15:18:32		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-15.zip
+2015-08-26 15:18:35		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-16.zip
+2015-08-26 15:19:06		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-17.zip
+2015-08-26 15:19:37		Data decompression scientificknowledgebuilding_com-full-2015_08_26_10_56-18.zip

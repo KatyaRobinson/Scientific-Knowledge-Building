@@ -1,0 +1,2 @@
+1	2	"Hebert, P.D.N., Cywinska, A., Ball, S.L., DeWaard, J.R."	Biological identifications through DNA barcodes	2003	Poc. R. Soc. Lond. B	270	NULL	NULL	313	322	10.1098/rspb.2002.2218
+2	2	"Ingaki, Y., Ehara, M., Watanabe, K.I., Hayashi-Ishimaru, Y., Ohama, T."	Directionally evolving genetic code: The UGA codon from stop to tryptophan in mitochondria	1998	J. Mol. Evol.	47	NULL	NULL	378	384	NULL

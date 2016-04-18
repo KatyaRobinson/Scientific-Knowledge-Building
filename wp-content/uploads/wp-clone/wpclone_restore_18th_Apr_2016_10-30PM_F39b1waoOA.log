@@ -1,0 +1,23 @@
+Monday, 18-Apr-2016 22:30:56 - restore started
+Monday, 18-Apr-2016 22:30:56 - wp version     : 4.5
+Monday, 18-Apr-2016 22:30:56 - php version    : 5.6.2
+Monday, 18-Apr-2016 22:30:56 - mysql version  : 5.5.38
+Monday, 18-Apr-2016 22:30:56 - memory limit   : 1024M
+Monday, 18-Apr-2016 22:30:56 - execution time : 600
+Monday, 18-Apr-2016 22:30:56 - mysql timeout  : 600
+Monday, 18-Apr-2016 22:30:56 - socket timeout : 600
+Monday, 18-Apr-2016 22:30:56 - file download started
+Monday, 18-Apr-2016 22:33:16 - download finished, filesize - 192.09 MB
+Monday, 18-Apr-2016 22:33:16 - extracting database using ziparchive
+Monday, 18-Apr-2016 22:33:16 - database import started
+Monday, 18-Apr-2016 22:33:17 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1","siteurl","http://localhost:8000/skb","yes")"
+Monday, 18-Apr-2016 22:33:18 - mysql query failed. error : 1065 Query was empty - query : ""
+Monday, 18-Apr-2016 22:33:18 - database import finished
+Monday, 18-Apr-2016 22:33:18 - search and replace started
+Monday, 18-Apr-2016 22:33:18 - there are 53 tables to scan
+Monday, 18-Apr-2016 22:33:19 - search and replace finished
+Monday, 18-Apr-2016 22:33:19 - extracting archive using ziparchive
+Monday, 18-Apr-2016 22:33:29 - copying files..
+Monday, 18-Apr-2016 22:33:38 - deleting temp directory..
+Monday, 18-Apr-2016 22:33:43 - deleting downloaded zip file..
+Monday, 18-Apr-2016 22:33:43 - restore finished
